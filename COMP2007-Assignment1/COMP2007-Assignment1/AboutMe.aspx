@@ -1,9 +1,8 @@
-﻿<!-- 
+﻿<%-- 
     File Name: AboutMe.Master
     Author's Name: David Y 200286902
     Website Name:http://comp2007-assignment1a.azurewebsites.net/
-    File Description: This is the about me page. 
-     -->
+    File Description: This is the about me page. --%>
 
 <%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="AboutMe.aspx.cs" Inherits="COMP2007_Assignment1.About_Me" %>
 

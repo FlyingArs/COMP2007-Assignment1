@@ -1,9 +1,9 @@
-﻿<!-- 
+﻿<%-- 
     File Name: Contact.Master
     Author's Name: David Y 200286902
     Website Name:http://comp2007-assignment1a.azurewebsites.net/
     File Description: This is the master page for contact page
-     -->
+     --%>
 
 <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Contact.master.cs" Inherits="COMP2007_Assignment1.Contact1" %>
 <%@ Register Src="~/User_Controls/Navbar.ascx" TagName="Navbar" TagPrefix="bs3" %>

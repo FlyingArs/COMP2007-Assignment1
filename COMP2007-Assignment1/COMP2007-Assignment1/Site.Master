@@ -1,9 +1,10 @@
-﻿<!-- 
-    File Name: Site.Master
+﻿<%-- File Name: Site.Master
     Author's Name: David Y 200286902
     Website Name:http://comp2007-assignment1a.azurewebsites.net/
     File Description: This is the master page for main pages except contact
-     -->
+     --%>
+    
+ 
 <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COMP2007_Assignment1.Site" %>
 <%@ Register Src="~/User_Controls/Navbar.ascx" TagName="Navbar" TagPrefix="bs3" %>
 <!DOCTYPE html>
