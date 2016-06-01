@@ -1,4 +1,10 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="COMP2007_Assignment1.Projects" %>
+﻿<!-- 
+    File Name: Contact.Master
+    Author's Name: David Y 200286902
+    Website Name:http://comp2007-assignment1a.azurewebsites.net/
+    File Description: This is the projects page.
+     -->
+<%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="COMP2007_Assignment1.Projects" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="col-lg-4">

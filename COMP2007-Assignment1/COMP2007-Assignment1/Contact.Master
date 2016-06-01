@@ -1,10 +1,11 @@
 ﻿<!-- 
-    File Name: Site.Master
+    File Name: Contact.Master
     Author's Name: David Y 200286902
     Website Name:http://comp2007-assignment1a.azurewebsites.net/
-    File Description: This is the master page for main pages except contact
+    File Description: This is the master page for contact page
      -->
-<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COMP2007_Assignment1.Site" %>
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Contact.master.cs" Inherits="COMP2007_Assignment1.Contact1" %>
 <%@ Register Src="~/User_Controls/Navbar.ascx" TagName="Navbar" TagPrefix="bs3" %>
 <!DOCTYPE html>
 
@@ -40,7 +41,7 @@
                 <li><a href="#">Terms of Use</a></li>
                 <li><a href="#">Site Map</a></li>
                 <li><a href="#">Feedback</a></li>
-                <li><a href="#">&copy; Copyright 2016 Johnathan Kent. All Rights Reserved</a></li>
+                <li><a href="#">&copy; Copyright 2016 Johnathan Kent, All Rights Reserved</a></li>
             </ul>    
         </div>
     </footer>
